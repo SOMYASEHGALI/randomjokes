@@ -1,0 +1,21 @@
+.outer{
+    height: 900px;
+    width:700px;
+    border:black solid 6px;
+    border-radius: 6px;
+    display:center;
+    text-align: center;
+    background-color: blanchedalmond;
+    position:absolute;
+    left:25%;
+    top:15%
+    }
+.outer img{
+    height:300px;
+    width:300px;
+}
+button{
+    height:32px;
+    background-color: black;
+    color: aliceblue;
+}
